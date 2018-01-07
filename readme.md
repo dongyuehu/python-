@@ -31,3 +31,22 @@
 	HTML
 		超文本标记语言
 			HTML是通过标签形式组织内容的一种语言
+				标题:h1 h2 h3 h4 h5 ...
+				段落:p
+				换行:br
+				容器:div span
+				表格:tab tr td
+				列表:ul ol li 
+				链接:a
+				图片:img
+				表单:input
+			web1.0
+				html\css
+			web2.0；高效的数据表达
+				ajax、js、xml  异步
+				ajax：动态  异步
+			web3.0：web自适应、普适应用
+				h5 css3 
+	css技术理念：层叠样式表
+		html负责数据的组织，用标签的形式
+		css负责用键值对表达样式
